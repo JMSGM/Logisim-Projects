@@ -1,0 +1,4 @@
+MOVC R1 1
+LSL  R2 R1   
+LSR  R3 R2   
+NOT  R4 R3   
